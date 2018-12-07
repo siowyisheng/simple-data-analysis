@@ -1,6 +1,6 @@
-# The Simple Guide to Data Analysis
+# The Simple Guide to Data Analysis with Python
 
-_Data Analysis explained simply._
+_Data Analysis with Python explained simply._
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/siowyisheng/simple-data-analysis/blob/master/LICENSE) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
